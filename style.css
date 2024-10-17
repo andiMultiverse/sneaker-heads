@@ -27,3 +27,61 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+
+h1 {
+    border-radius: 1.5em;
+    text-align: center;
+    text-decoration: underline;
+    color: blueviolet;
+    font-size: 3rem;
+    background: linear-gradient(#e66465, #9198e5);
+    text-shadow: #FC0 1px 0 10px;
+   
+    
+}
+
+.jordans {
+  height: 400px;
+  width: 600px;
+}
+
+body {
+    background-image: url('https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg');
+    background-size: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    width: auto;
+}
+
+#row1 {
+    /* margin:  auto; */
+    padding-left: 400px;
+}
+
+#row2 {
+    /* margin:  auto; */
+    padding-left: 600px;
+}
+
+
+#row1-section1 {
+   
+  
+}
+
+#row1-section2 {
+   
+}
+
+#jordans-1-desc {
+    border: 2px solid red;
+background-color: aqua;
+width: 70%;
+
+}
+
+#jordans-2-desc {
+    border: 2px solid green;
+background-color: red;
+width: 70%;
+}
